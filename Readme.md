@@ -10,3 +10,6 @@ A Basic app with Heroku configuration setup. You can clone this and upload to yo
 # Step 2 : npm start
     to start the server & run port in http://localhost:3000
     
+# Step 3 : Upload to Heroku & Test
+
+![alt tag](heroku_upload.png)
